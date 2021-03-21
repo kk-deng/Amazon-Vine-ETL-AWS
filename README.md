@@ -2,7 +2,7 @@
 
 # A ETL Project with AWS RDS and Big Data Analysis
 
-*Analyze whether reviews from Amazon's Vine program are trustworthy
+*Analyze whether reviews from Amazon's Vine program are trustworthy*
 
 <img src="https://thewanderingclouddotblog.files.wordpress.com/2020/07/amazonvine.png" width=600>
 
