@@ -1,6 +1,6 @@
 # Big Data Challenge
 
-# A ETL Project with AWS RDS and Big Data Analysis
+# An ETL Project with AWS RDS and Big Data Analysis
 
 *Analyze whether reviews from Amazon's Vine program are trustworthy*
 
