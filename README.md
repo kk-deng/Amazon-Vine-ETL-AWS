@@ -1,6 +1,6 @@
 # Big Data Challenge
 
-# An ETL Project with AWS RDS and Big Data Analysis in Google Colab
+# An ETL Project with AWS RDS and Big Data Analysis in Google Colab with PySpark
 
 *Analyze whether reviews from Amazon's Vine program are trustworthy*
 
